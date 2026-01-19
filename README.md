@@ -3,8 +3,8 @@
 **Software Engineer | AI Developer**  
 📧 amarikwat@gmail.com  
 
-Building intelligent systems, AI agents, and automation solutions for real-world problems.  
-Founder of an AI consulting initiative focused on helping businesses automate and scale with AI.
+Building intelligent systems, AI agents, and automating solutions for real-world problems.  
+building an AI consulting initiative focused on helping businesses automate and scale with AI.
 
 🌐 Company: **Jargs Cormark — AI Consulting**  
 🔗 www.jargscormark.com
