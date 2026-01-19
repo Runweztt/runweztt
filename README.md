@@ -1,55 +1,57 @@
-# Hi 👋 I'm Raini
+# Hi 👋 I'm Emmanuel
 
- Software Engineer | AI Developer   
- Building intelligent systems and automation solutions for real-world problems
-
----
-
-##  About Me
-
-I am a passionate Software Engineer and AI Developer focused on building scalable web applications and AI-powered systems.  
-I enjoy working on automation, intelligent agents, and modern web technologies to help businesses improve efficiency and growth.
-
-I am particularly interested in using AI to support businesses and community-driven solutions.
+🚀 Software Engineer | AI Developer  
+🤖 Building intelligent systems, AI agents, and automation solutions for real-world problems
 
 ---
 
-##  Tech Stack
+## 👨‍💻 About Me
+
+I am a passionate Software Engineer and AI Developer with strong interest in building scalable web applications and intelligent systems.
+
+I focus on automation, AI agents, and backend systems that improve business operations and productivity.  
+I enjoy designing solutions that combine modern web technologies with AI to solve practical, real-world challenges.
+
+I also explore advanced AI concepts such as Retrieval-Augmented Generation (RAG) and Model Context Protocol (MCP) to build smarter, more reliable AI systems.
+
+---
+
+## 🛠 Tech Stack
 
 **Frontend**
-- React.js
-- Tailwind CSS
+- React.js  
+- Tailwind CSS  
 
 **Backend**
-- Python
-- Flask
+- Python  
+- Flask  
 
 **Database & Tools**
-- Supabase
-- n8n (automation & workflows)
+- Supabase  
+- n8n (automation & workflows)  
 
 **AI & Automation**
-- AI Agents
-- API integrations
-- Workflow automation
+- AI Agents  
+- RAG (Retrieval-Augmented Generation)  
+- MCP (Model Context Protocol)  
+- API Integrations  
+- Workflow Automation  
 
 ---
 
 ## 🚀 What I’m Working On
 
--  AI-powered automation systems  
--  Call & appointment AI agents  
--  Dashboards for workflow monitoring  
--  Solutions focused on businesses  
+- 🤖 AI-powered automation systems  
+- 📞 Call and appointment AI agents  
+- 📊 Monitoring dashboards for workflows  
+- 🧠 RAG-based knowledge assistants  
+- 🌍 Business-focused AI solutions  
 
 ---
 
-##  Contact Me
+## 📫 Contact Me
 
--  Email: **amarikwat@gmail.com**
+- 📧 Email: **amarikwat@gmail.com**
 
 ---
 
-##  GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=runweztt&show_icons=true&theme=default)
