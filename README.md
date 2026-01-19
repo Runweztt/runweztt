@@ -52,4 +52,4 @@ I am particularly interested in using AI to support businesses and community-dri
 
 ##  GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=runweztt&show_icons=true&theme=default)
