@@ -1,10 +1,13 @@
-# Emmanuel Amarikwat
+# Emmanuel Amarikwa
 
 **Software Engineer | AI Developer**  
 📧 amarikwat@gmail.com  
 
 Building intelligent systems, AI agents, and automation solutions for real-world problems.  
-Focused on scalable backend systems, AI integration, and business automation.
+Founder of an AI consulting initiative focused on helping businesses automate and scale with AI.
+
+🌐 Company: **Jargs Cormark — AI Consulting**  
+🔗 www.jargscormark.com
 
 ---
 
@@ -12,7 +15,7 @@ Focused on scalable backend systems, AI integration, and business automation.
 
 ---
 
-## 🧠 Tech
+##  Tech
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
@@ -29,5 +32,8 @@ Focused on scalable backend systems, AI integration, and business automation.
 ## 🔗 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/runweztt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/runwezt/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://x.com/runweztt)
+[![Website](https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=google-chrome)](https://www.jargscormark.com)
 
 ---
