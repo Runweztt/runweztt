@@ -1,57 +1,33 @@
-# Hi 👋 I'm Emmanuel
+# Emmanuel Amarikwat
 
-🚀 Software Engineer | AI Developer  
-🤖 Building intelligent systems, AI agents, and automation solutions for real-world problems
+**Software Engineer | AI Developer**  
+📧 amarikwat@gmail.com  
 
----
-
-## 👨‍💻 About Me
-
-I am a passionate Software Engineer and AI Developer with strong interest in building scalable web applications and intelligent systems.
-
-I focus on automation, AI agents, and backend systems that improve business operations and productivity.  
-I enjoy designing solutions that combine modern web technologies with AI to solve practical, real-world challenges.
-
-I also explore advanced AI concepts such as Retrieval-Augmented Generation (RAG) and Model Context Protocol (MCP) to build smarter, more reliable AI systems.
+Building intelligent systems, AI agents, and automation solutions for real-world problems.  
+Focused on scalable backend systems, AI integration, and business automation.
 
 ---
 
-## 🛠 Tech Stack
-
-**Frontend**
-- React.js  
-- Tailwind CSS  
-
-**Backend**
-- Python  
-- Flask  
-
-**Database & Tools**
-- Supabase  
-- n8n (automation & workflows)  
-
-**AI & Automation**
-- AI Agents  
-- RAG (Retrieval-Augmented Generation)  
-- MCP (Model Context Protocol)  
-- API Integrations  
-- Workflow Automation  
+![Profile Views](https://komarev.com/ghpvc/?username=runweztt&color=blueviolet)
 
 ---
 
-## 🚀 What I’m Working On
+## 🧠 Tech
 
-- 🤖 AI-powered automation systems  
-- 📞 Call and appointment AI agents  
-- 📊 Monitoring dashboards for workflows  
-- 🧠 RAG-based knowledge assistants  
-- 🌍 Business-focused AI solutions  
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: **amarikwat@gmail.com**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n)
+![AI](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-1E90FF?style=for-the-badge)
 
 ---
 
+## 🔗 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/runweztt)
+
+---
