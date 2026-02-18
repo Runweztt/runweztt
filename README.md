@@ -6,8 +6,7 @@
 Building intelligent systems, AI agents, and automating solutions for real-world problems.  
 building an AI consulting initiative focused on helping businesses automate and scale with AI.
 
-🌐 Company: **Jargs Cormark — AI Consulting**  
-🔗 www.jargscormark.com
+
 
 ---
 
