@@ -1,6 +1,6 @@
 # Emmanuel Amarikwa
 
-**Software Engineer | Backend & AI Infrastructure**  
+**Software Engineer |  AI Infrastructure**  
 📧 amarikwat@gmail.com  
 Building scalable software systems, exploring distributed computing, and engineering practical AI solutions that help businesses scale.
 
